@@ -4,12 +4,12 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageVersion>0.0.1</PackageVersion>
-        <RepositoryUrl>https://github.com/vidolch/Host.Customization</RepositoryUrl>
+        <RepositoryUrl>https://github.com/vidolch/host-customization</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
     </PropertyGroup>
     
     <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
-        <DocumentationFile>bin\Debug\Jigsaw.Service.Infrastructure.xml</DocumentationFile>
+        <DocumentationFile>bin\Debug\Host.Customization.xml</DocumentationFile>
     </PropertyGroup>
 
 </Project>
