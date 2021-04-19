@@ -1,4 +1,4 @@
-﻿namespace Host.Customization
+﻿namespace Jigsaw.Host.Customization
 {
     public class ClassOfTheYear
     {

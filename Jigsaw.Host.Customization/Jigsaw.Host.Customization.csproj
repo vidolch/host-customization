@@ -9,7 +9,7 @@
     </PropertyGroup>
     
     <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
-        <DocumentationFile>bin\Debug\Host.Customization.xml</DocumentationFile>
+        <DocumentationFile>bin\Debug\Jigsaw.Host.Customization.xml</DocumentationFile>
     </PropertyGroup>
 
 </Project>

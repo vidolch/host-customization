@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host.Customization", "Host.Customization\Host.Customization.csproj", "{CEF8A9A4-A4E7-4B8D-B46C-96DD2DB36CDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jigsaw.Host.Customization", "Jigsaw.Host.Customization\Jigsaw.Host.Customization.csproj", "{CEF8A9A4-A4E7-4B8D-B46C-96DD2DB36CDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
